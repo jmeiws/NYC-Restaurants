@@ -1,3 +1,5 @@
+Examining New York City restaurants and their Google Reviews ratings based on an analysis of data acquired from Yelp.
+
 # NYC-Restaurants
 
 **Resoruces:**
